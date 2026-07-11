@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
