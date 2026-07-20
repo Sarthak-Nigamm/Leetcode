@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
