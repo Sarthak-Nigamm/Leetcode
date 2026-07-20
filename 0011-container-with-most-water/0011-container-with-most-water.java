@@ -2,25 +2,31 @@ class Solution {
     public int maxArea(int[] height) {
         int left = 0;
         int right = height.length - 1;
-        int maxWater = 0;
+        int maxArea = 0;
         
         while (left < right) {
-            // Calculate the area with the current left and right pointers
-            int currentWidth = right - left;
-            int currentHeight = Math.min(height[left], height[right]);
-            int currentArea = currentWidth * currentHeight;
+            int hLeft = height[left];
+            int hRight = height[right];
             
-            // Update the maximum water seen so far
-            maxWater = Math.max(maxWater, currentArea);
+            // Find the shorter line using a ternary operator (faster than Math.min)
+            int minHeight = hLeft < hRight ? hLeft : hRight;
             
-            // Move the pointer that points to the shorter line
-            if (height[left] < height[right]) {
+            // Calculate area and update maxArea
+            int currentArea = (right - left) * minHeight;
+            if (currentArea > maxArea) {
+                maxArea = currentArea;
+            }
+            
+            // Fast-forward the left pointer if the next lines are shorter or equal
+            while (left < right && height[left] <= minHeight) {
                 left++;
-            } else {
+            }
+            // Fast-forward the right pointer if the next lines are shorter or equal
+            while (left < right && height[right] <= minHeight) {
                 right--;
             }
         }
         
-        return maxWater;
+        return maxArea;
     }
 }
