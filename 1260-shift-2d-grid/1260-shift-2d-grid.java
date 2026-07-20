@@ -3,48 +3,36 @@ import java.util.List;
 
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int n = grid.length;
-        int m = grid[0].length;
-    int grid2 [][]= new int[n][m];
-     List<List<Integer>> result = new ArrayList<>();
-      List<Integer> rowList2 = new ArrayList<>();
-        // Tumhara original logic (Bina kisi change ke)
-        if(k==0){
-        rowList2.add(grid[0][0]);
-         result.add(rowList2);
-         return result;
-        }
-        while(k>0){
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(j != m-1){
-                    grid2[i][j+1]=grid[i][j];
-                } else if(j == m-1 && i != n-1){
-                    grid2[i+1][0]=grid[i][j];
-                } else {
-                   grid2[0][0] =  grid[i][j];
-                }
+        int m = grid.length;
+        int n = grid[0].length;
+        int totalElements = m * n;
+        
+        // Agar k matrix ke size se bada hai toh usko chhota kar lete hain
+        k = k % totalElements; 
+        
+        List<List<Integer>> result = new ArrayList<>();
+        
+        for (int i = 0; i < m; i++) {
+            List<Integer> row = new ArrayList<>();
+            for (int j = 0; j < n; j++) {
+                
+                // Naye grid ke current cell (i, j) ki 1D position
+                int targetPos = i * n + j;
+                
+                // Pata lagate hain ki original grid mein yeh element kahan tha
+                // + totalElements isliye kiya taaki negative value na aaye
+                int sourcePos = (targetPos - k + totalElements) % totalElements;
+                
+                // 1D position ko wapas 2D coordinates (row, col) mein convert karna
+                int sourceRow = sourcePos / n;
+                int sourceCol = sourcePos % n;
+                
+                // Original grid se value utha kar result mein daal di
+                row.add(grid[sourceRow][sourceCol]);
             }
+            result.add(row);
         }
-
-        //copy grid 2 in grid 1
-        for(int i =0; i<n; i++){
-            for(int j =0; j<m; j++){
-                grid[i][j] = grid2[i][j];
-            }
-        }
-        k--;
-    }
-        // Yahan se nayi List banane aur rows store karne ka code hai
-       
-        for(int i = 0; i < n; i++){
-            List<Integer> rowList = new ArrayList<>();
-            for(int j = 0; j < m; j++){
-                rowList.add(grid2[i][j]);
-            }
-            result.add(rowList);
-        }
-
+        
         return result;
     }
 }
