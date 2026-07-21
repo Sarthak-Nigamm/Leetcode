@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
 ## Stack
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
 ## Simulation
