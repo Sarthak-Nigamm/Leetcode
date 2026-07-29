@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Two Pointers
 |  |
