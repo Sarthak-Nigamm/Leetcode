@@ -1,19 +1,8 @@
-import java.util.*;
 class Solution {
-    public int singleNumber(int[] arr) {
-        int result = 0;
-        Arrays.sort(arr);
-         if(arr.length==1){
-                return arr[0];
-            }
-        for(int i =0; i<arr.length-1;i+=2){ 
-           
-            if(arr[i]!=arr[i+1]){
-                return arr[i];
-            }
-            
+    public int singleNumber(int[] nums) {
+        int result =0;
+        for(int i =0; i<nums.length; i++){
+            result = result^nums[i];
         }
-        
-        return arr[arr.length-1];
-    }
+   return result; }
 }
