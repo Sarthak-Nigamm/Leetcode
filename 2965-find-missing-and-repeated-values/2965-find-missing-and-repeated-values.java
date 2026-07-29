@@ -1,40 +1,21 @@
-import java.util.*;
 class Solution {
-    public static boolean ispre(int[][]grid,int key){
-        for(int row =0; row<grid.length; row++){
-                for(int j =0; j<grid.length; j++){
-                    if(grid[row][j] == key){
-                        return true;
-                        
-                    }
-                }
-           }
-            return false;
-    }
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-        int ans[] = new int[2];
-        int n = grid.length;
-        int arr[] = new int[n*n+1];
-        for(int i =1; i<=n*n; i++){
-            boolean b = ispre(grid,i);
-            if(b==false){
-                ans[1] = i;
+        int n =grid.length;
+        int n2=n*n;
+        int ans[]=new int[2];
+        int count[] = new int[n2+1];
+        for(int i =0; i<n;i++){
+            for(int j =0; j<n;j++){
+                count[grid[i][j]]++;
             }
         }
-
-       int k =0;
-            for(int i =0; i<n; i++){
-                for(int j =0; j<n; j++){
-                    
-                arr[k++] = grid[i][j];
-                
+        for(int i =1;i<=n2;i++){
+            if(count[i]==0){
+                ans[1]=i;
+            }
+            if(count[i]==2){
+                ans[0]=i;
             }
         }
-      Arrays.sort(arr);
-    for(int i =1;i<arr.length;i++){
-        if(arr[i]==arr[i-1]){
-            ans[0] = arr[i];
-        }
-    }
-      
-   return ans; }}
+  return ans;  }
+}
