@@ -16,10 +16,10 @@ class Solution {
                     exist = false;
                 }else{
                     exist = true;
+                    sum+=1;
                     break;
                 }
-            }
-            sum+=1;
+            }   
         }
-   return sum-1; }
+   return sum; }
 }
