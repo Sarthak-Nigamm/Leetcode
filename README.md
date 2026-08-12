@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,4 +189,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
