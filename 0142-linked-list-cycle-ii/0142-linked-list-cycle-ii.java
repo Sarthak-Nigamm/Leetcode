@@ -10,30 +10,25 @@
  * }
  */
 public class Solution {
-     ListNode fast ;
-     ListNode slow ;
-    public boolean isloop(ListNode head){
-        fast =head;
-        slow = head;
+    public ListNode detectCycle(ListNode head) {
+       ListNode fast = head;
+       ListNode slow = head;
+       if(head == null){
+        return null;
+       }
+       if(head.next == null){
+                return null;
+            }
         while(fast!=null && fast.next!=null){
             fast = fast.next.next;
             slow= slow.next;
             if(fast==slow){
-                return true;
-            }
-   }
- return false;    }
-    public ListNode detectCycle(ListNode head) {
-        if(isloop(head)){
-            if(head.next == null || head == null){
-                return null;
-            }
-         slow = head;
+                slow = head;
         while(fast!=slow){
             slow = slow.next;
             fast = fast.next;
         }
   return slow;
-        }
-    return null;      }
-}
+            }
+ }
+ return null;}}
