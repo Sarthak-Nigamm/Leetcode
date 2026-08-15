@@ -6,7 +6,7 @@ class Solution {
             if(nums[i] == 1){
                 curr++;
             }
-            if(nums[i]==0){
+           else{
                     maxoccurence = Math.max(maxoccurence,curr);
                     curr =0;
             }
