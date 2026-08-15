@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Minimax
 |  |
 | ------- |
