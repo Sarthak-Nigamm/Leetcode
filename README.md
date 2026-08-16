@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0051-n-queens) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0088-merge-sorted-array) |
