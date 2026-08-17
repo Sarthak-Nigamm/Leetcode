@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
