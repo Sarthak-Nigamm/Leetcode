@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
