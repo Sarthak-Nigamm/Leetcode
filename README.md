@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
+| [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
