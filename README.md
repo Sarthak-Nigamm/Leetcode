@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
