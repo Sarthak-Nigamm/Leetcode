@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
