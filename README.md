@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0704-binary-search) |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
