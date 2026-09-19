@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1927-sum-game) |
@@ -459,4 +460,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
