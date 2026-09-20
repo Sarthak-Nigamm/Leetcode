@@ -1,16 +1,14 @@
 class Solution {
     public int reverseDegree(String s) {
-        int arr[] = new int[26];
-        int count = 26;
-        for(int i = 0; i<26; i++){
-            arr[i] = count;
-            count--;
-        }
-        int sum = 0;
-        for(int i = 0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            int a = (int)(ch - 'a');
-            sum+= (arr[a] * (i+1));
-        }
-   return sum;}
+        int sum=0;
+        int product=1;
+       for(int i=0;i<s.length();i++)
+       {
+        int index=s.charAt(i)-'a';
+        int reverse=26-index;
+        product=(i+1)*reverse;
+        sum=sum+product;
+       }
+       return sum;
+    }
 }
