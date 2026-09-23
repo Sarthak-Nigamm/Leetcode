@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0410-split-array-largest-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1510-stone-game-iv) |
 ## Two Pointers
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3904-smallest-stable-index-ii) |
