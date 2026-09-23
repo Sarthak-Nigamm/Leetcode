@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1927-sum-game) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1927-sum-game) |
 ## Recursion
