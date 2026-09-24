@@ -2,9 +2,8 @@ class Solution {
     public int digitSum(int d){
         int sum = 0;
         while(d>0){
-            int ld = d%10;
-            d/=10;
-            sum+=ld;
+            sum+=(d%10);
+             d/=10;
         }
     return sum;}
     public int smallestIndex(int[] nums) {
