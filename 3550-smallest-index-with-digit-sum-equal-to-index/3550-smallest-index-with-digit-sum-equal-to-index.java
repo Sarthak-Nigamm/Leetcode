@@ -8,8 +8,7 @@ class Solution {
     return sum;}
     public int smallestIndex(int[] nums) {
         for(int i =0; i<nums.length; i++){
-            int a = digitSum(nums[i]);
-            if(a==i){
+            if(digitSum(nums[i])==i){
                 return i;
             }
         }
