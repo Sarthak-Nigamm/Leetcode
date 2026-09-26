@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
