@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarthak-Nigamm/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
