@@ -1,21 +1,20 @@
 class Solution {
-    public int trap(int[] arr) {
-        int n = arr.length;
-        int left[] = new int[n];
-        left[0] = arr[0];
-        for(int i = 1; i<n; i++){
-            left[i] = Math.max(arr[i],left[i-1]);
-        }
-        int right[] = new int[n];
-        right[n-1] = arr[n-1];
-        for(int i = n-2; i>=0; i--){
-            right[i] = Math.max(right[i+1], arr[i]);
-        }
-
-        int twl = 0;
-        for(int i =0; i<arr.length; i++){
-            int wl = Math.min(left[i],right[i]) - arr[i];
-            twl+=wl;
-        }
-
-   return twl; }}
+public static int trap(int[] arr) {
+      int n = arr.length;
+      int l[] = new int[n];
+      l[0] = arr[0];
+      for(int i = 1; i<n; i++){
+        l[i] = Math.max(arr[i],l[i-1]);
+      }
+      int r[] = new int[n];
+      r[n-1] = arr[n-1];
+      for(int i = n-2; i>-1; i--){
+        r[i] = Math.max(arr[i],r[i+1]);
+      }
+    int twl = 0;
+    for(int i =0; i<n; i++){
+        int cwl = Math.min(l[i],r[i])-arr[i];
+        twl+=cwl;
+    }
+      return twl;
+       }}
